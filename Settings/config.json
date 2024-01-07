@@ -1,0 +1,33 @@
+{
+    "BotToken":"",
+    "OwnerID":"924369071070404668",
+    "prefix": ["c!"],
+
+    "BotVoiceChannel":"1167793766623609002",
+    "Activity": [
+    "Yeni Güncelleme Yayında!",
+    "Happy New Year 2024!",
+    "Happy New Year 2024!",
+    "!panel İçin Bota DM"
+    ],
+    "Footer":"İnstagram Bedava Takipçi",
+    "Color":"Black",
+
+    "green":"<a:green:920412144716103801>",
+    "red":"<a:red:920412153712889877>",
+    "star":"<a:star:920412163087142913>",
+    "çizgi":"<a:cizgi:920415459281612821>",
+
+    "EnAltYetkiliRoleID":"917002392011177994",
+    "TagRoleID":"917002395488251945",
+    "YetkiliAlımRoleID": "917002386357231616",
+    "VerilecekYetkiliRolleriID": ["917002391415558144","917002392011177994"],
+    "EveryoneRoleID":"900802332525203497",
+
+    "BaşvuruKategoryID":"1167793777549791354",
+    "BasvuruKomutKullanımKanalı":"1167793777549791354",
+    "BaşvuruDurumLog": "1167793777549791354",
+    "BaşvuruLogChannelID":"1167793777549791354",
+    "ÖneriİstekChannelID":"1167793777549791354",
+    "SikayetChannelID":"1167793777549791354"
+}
